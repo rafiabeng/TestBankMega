@@ -5,7 +5,8 @@
 4. Run "php artisan migrate" on the Terminal to migrate tables that I've created into the "techtest1" database
 5. Run "php artisan db:seed" on the Terminal to seed existing data into the tables that I've created
 6. Run "php artisan serve" to host the web on your local machine
-*Unfortunately because my project isnt finished yet, this project can't be run at this stage.
+
+note: Unfortunately because my project isnt finished yet, this project can't be run at this stage.
 
 
 
